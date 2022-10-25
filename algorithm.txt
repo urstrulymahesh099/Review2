@@ -1,0 +1,5 @@
+1. Creat review.sh file using linux command.
+2. Read the review2 problem.
+3. Type program at nano review.sh command.
+3. use array slicing method to execute output.
+4. After executing output and create algorithm.txt and type stpes of program. 
